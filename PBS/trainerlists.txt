@@ -1,0 +1,7 @@
+[DefaultTrainerList]
+Trainers=bttrainers.txt
+Pokemon=btpokemon.txt
+[TrainerList]
+Trainers=towersingleopentr.txt
+Pokemon=towersingleopenpm.txt
+Challenges=towersingleopen
